@@ -1,2 +1,2 @@
 # portofolio
-Website sederhana untuk latuhan kolaborasi
+Website sederhana untuk latihan kolaborasi
